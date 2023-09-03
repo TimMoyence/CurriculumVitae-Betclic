@@ -27,7 +27,7 @@ Pour utiliser ce site CV, suivez ces étapes simples :
 1. Clonez ce repository sur votre machine locale en utilisant la commande suivante :
 
    ```
-   git clone https://github.com/votre-nom/votre-site-cv.git
+   git clone https://github.com/TimMoyence/CurriculumVitae-Betclic.git
    ```
 
 2. Ouvrez le fichier `index.html` dans votre navigateur web préféré pour visualiser le site.
